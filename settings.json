@@ -113,8 +113,8 @@
     },
     {
       "title": "Marine Object Detection System using Drone",
-      "description": "An AI-powered system for detecting marine object using drone technology. Utilizes computer vision models to identify and track sharks in real-time.",
-      "longDescription": "Developed an AI-driven shark detection system that utilizes state-of-the-art computer vision models to identify and track sharks in real-time.",
+      "description": "An AI-powered system for detecting marine object using drone technology. Utilizes computer vision models to identify and track marine object in real-time.",
+      "longDescription": "Developed an AI-driven shark detection system that utilizes state-of-the-art computer vision models to identify and track marine object in real-time.",
       "tech": ["Python", "TensorFlow", "OpenCV", "Drone SDK", "YOLO8"],
       "link": null,
       "github": "https://github.com/ruidev0801/Shark_Detection",
