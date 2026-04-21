@@ -11,7 +11,7 @@ interface Project {
   description: string;
   longDescription?: string;
   tech: string[];
-  link: string;
+  link?: string | null;
   github: string;
   featured?: boolean;
   features?: string[];
@@ -106,15 +106,17 @@ export default function Projects() {
                 >
                   <span>View Details →</span>
                 </button>
-                <a
-                  href={project.link}
-                  className="flex items-center gap-2 text-accent hover:underline"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <ExternalLink className="w-4 h-4" />
-                  <span>Live</span>
-                </a>
+                {project.link && (
+                  <a
+                    href={project.link}
+                    className="flex items-center gap-2 text-accent hover:underline"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <ExternalLink className="w-4 h-4" />
+                    <span>Live</span>
+                  </a>
+                )}
                 <a
                   href={project.github}
                   className="flex items-center gap-2 text-accent hover:underline"

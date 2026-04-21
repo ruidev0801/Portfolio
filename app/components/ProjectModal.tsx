@@ -9,7 +9,7 @@ interface Project {
   description: string;
   longDescription?: string;
   tech: string[];
-  link: string;
+  link?: string | null;
   github: string;
   featured?: boolean;
   features?: string[];
@@ -130,15 +130,17 @@ export default function ProjectModal({ isOpen, onClose, project }: ProjectModalP
 
                   {/* Links */}
                   <div className="flex gap-4 pt-4">
-                    <a
-                      href={project.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center justify-center gap-2 px-6 py-3 bg-accent text-background hover:scale-105 transition-transform duration-300"
-                    >
-                      <ExternalLink className="w-5 h-5" />
-                      <span>View Live</span>
-                    </a>
+                    {project.link && (
+                      <a
+                        href={project.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center justify-center gap-2 px-6 py-3 bg-accent text-background hover:scale-105 transition-transform duration-300"
+                      >
+                        <ExternalLink className="w-5 h-5" />
+                        <span>View Live</span>
+                      </a>
+                    )}
                     <a
                       href={project.github}
                       target="_blank"
