@@ -81,14 +81,12 @@ export default function About() {
         >
           <motion.div variants={itemVariants}>
             <p className="text-lg md:text-xl text-muted leading-relaxed mb-6">
-              I&apos;m a passionate developer who loves turning ideas into reality through code. 
-              With a keen eye for design and a strong technical foundation, I create 
-              experiences that are both beautiful and functional.
+              AI and Machine Learning engineer focused on building reliable systems that actually solve problems for businesses. I work with modern AI models, automation tools, and scalable backend technology to create products that are fast, practical, and ready for real-world use.
             </p>
             <p className="text-lg md:text-xl text-muted leading-relaxed">
-              My approach combines creativity with technical excellence, ensuring every 
-              project not only looks great but performs exceptionally.
+              My background is rooted in engineering, so I care about clean architecture, solid execution, and solutions that make a measurable difference. Whether it’s integrating LLMs, building automation pipelines, or designing ML-driven features, I aim to deliver work that is both technically strong and genuinely useful.
             </p>
+            
           </motion.div>
 
           <motion.div variants={itemVariants} className="space-y-6">

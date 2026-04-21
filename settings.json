@@ -97,71 +97,71 @@
   ],
   "projects": [
     {
-      "title": "Project Alpha",
-      "description": "AI-powered content generation platform with advanced natural language processing capabilities.",
-      "longDescription": "Developed an AI-driven content generation platform that utilizes state-of-the-art NLP models to create high-quality, engaging content for various applications.",
-      "tech": ["Python", "TensorFlow", "React", "Node.js"],
-      "link": "https://project-alpha.com",
-      "github": "https://github.com/ruidev0801/project-alpha",
+      "title": "Landing Page for SaaS Product",
+      "description": "Designed and developed a responsive landing page for a SaaS product, focusing on user experience and conversion optimization.",
+      "longDescription": "Created a visually appealing and highly functional landing page for a SaaS product, ensuring an optimal user experience and maximizing conversion rates.",
+      "tech": ["Next", "TailwindCSS", "React", "Resend"],
+      "link": "https://www.trashlion.com/",
+      "github": "https://github.com/Rui0801/trash-lion-app",
       "featured": true,
       "features": [
-        "AI-powered content generation",
-        "Customizable templates",
-        "Real-time collaboration",
-        "Analytics dashboard"
+        "Responsive design for all devices",
+        "Optimized for conversion with clear CTAs",
+        "Integration with Resend for seamless communication",
+        "Clean and modern UI/UX design"
       ]
     },
     {
-      "title": "Project Beta",
-      "description": "E-commerce platform with AI-driven product recommendations and personalized shopping experience.",
-      "longDescription": "Built a scalable e-commerce platform that leverages AI to provide personalized product recommendations, enhancing the shopping experience and increasing conversion rates.",
-      "tech": ["JavaScript", "Node.js", "MongoDB", "AWS"],
-      "link": "https://project-beta.com",
-      "github": "https://github.com/ruidev0801/project-beta",
+      "title": "Shark Detection System using Drone",
+      "description": "An AI-powered system for detecting sharks using drone technology. Utilizes computer vision models to identify and track sharks in real-time.",
+      "longDescription": "Developed an AI-driven shark detection system that utilizes state-of-the-art computer vision models to identify and track sharks in real-time.",
+      "tech": ["Python", "TensorFlow", "OpenCV", "Drone SDK", "YOLO26"],
+      "link": null,
+      "github": "https://github.com/ruidev0801/Shark_Detection",
       "featured": true,
       "features": [
-        "Real-time data updates",
-        "Interactive charts with D3.js",
-        "Customizable widgets",
-        "Export functionality"
+        "Real-time shark detection",
+        "High accuracy with YOLO26 model",
+        "Integration with drone technology",
+        "User-friendly interface for monitoring"
       ]
     },
     {
-      "title": "Project Gamma",
-      "description": "Real-time web application for monitoring and visualizing IoT device data.",
-      "longDescription": "Created a real-time web application that allows users to monitor and visualize data from IoT devices, providing insights and actionable information through interactive dashboards.",
-      "tech": ["React", "Socket.io", "D3.js", "AWS"],
-      "link": "https://project-gamma.com",
-      "github": "https://github.com/ruidev0801/project-gamma",
+      "title": "Photo protection system for Instagram",
+      "description": "An AI-based system designed to protect photos on Instagram from unauthorized use. It uses image recognition and watermarking techniques.",
+      "longDescription": "Created an AI-based photo protection system for Instagram that utilizes image recognition and watermarking techniques to safeguard users' content from unauthorized use.",
+      "tech": ["Python", "TensorFlow", "OpenCV", "Instagram API"],
+      "link": null,
+      "github": "https://github.com/ruidev0801/Photoshield_2026",
       "featured": true,
       "features": [
-        "Real-time data streaming",
-        "Interactive charts with D3.js",
-        "Customizable widgets",
-        "Export functionality"
+        "Image recognition for unauthorized use detection",
+        "Watermarking to protect photos",
+        "Integration with Instagram API",
+        "User-friendly dashboard for managing protected content"
       ]
     },
     {
-      "title": "Project Delta",
-      "description": "AI-powered chatbot for customer support with natural language understanding.",
-      "longDescription": "Developed an AI-powered chatbot that provides efficient and accurate customer support by understanding natural language queries and providing relevant responses.",
-      "tech": ["Python", "TensorFlow", "Flask", "React"],
-      "link": "https://project-delta.com",
-      "github": "https://github.com/ruidev0801/project-delta",
+      "title": "GitHub Scraping Tool",
+      "description": "A tool for scraping and analyzing GitHub data in real-time. Provides insights and actionable information through interactive dashboards.",
+      "longDescription": "Developed a real-time web application for scraping and analyzing GitHub data, providing insights and actionable information through interactive dashboards.",
+      "tech": ["Python", "CustomTkinter", "GitHub API"],
+      "link": null,
+      "github": "https://github.com/ruidev0801/Github_Scraper_2026",
       "featured": true,
       "features": [
-        "Natural language processing",
-        "Contextual understanding",
-        "Seamless integration",
-        "Real-time responses"
+        "Real-time GitHub data scraping",
+        "Interactive dashboards for data visualization",
+        "CustomTkinter for a user-friendly interface",
+        "Integration with GitHub API for comprehensive data access"
       ]
-    }
+    }    
   ],
   "testimonials": [
     {
       "name": "Sementha Lee",
       "role": "CEO",
-      "company": "Tech Innovators Inc.",
+      "company": "Nexora Systems",
       "avatar": "JD",
       "content": "Rui is an exceptional developer who consistently delivers high-quality work. His attention to detail and creativity are unmatched.",
       "rating": 5
@@ -169,7 +169,7 @@
     {
       "name": "Reshmi Patel",
       "role": "Product Manager",
-      "company": "Creative Solutions Ltd.",
+      "company": "BlueCircuit Technologies",
       "avatar": "JD",
       "content": "Working with Rui was a fantastic experience. He brought our vision to life with his technical expertise and innovative approach.",
       "rating": 5
@@ -177,7 +177,7 @@
     {
       "name": "Tilman Schmidt",
       "role": "CTO",
-      "company": "Innovatech Corp.",
+      "company": "Altabyte Labs",
       "avatar": "JS",
       "content": "Rui's ability to solve complex problems and deliver results on time is truly impressive. He is a valuable asset to any team.",
       "rating": 5
@@ -185,20 +185,36 @@
   ],
   "experience": [
     {
-      "title": "Prompt Engineer & AI Developer",
+      "title": "AI/ML Engineer",
+      "company": "Self-Employed", 
+      "location": "USA",
+      "workType": "Remote",
+      "startDate": "2025-03",
+      "endDate": null,
+      "current": true,
+      "description": "Developed and deployed machine learning models for various applications, improving performance and user experience.",
+      "achievements": [
+        "Implemented AI solutions that increased efficiency by 25%",
+        "Collaborated with cross-functional teams to integrate AI into products",
+        "Published research on AI model optimization"
+      ],
+      "technologies": ["Python", "TensorFlow", "Scikit-learn", "AWS"]
+    },
+    {
+      "title": "Prompt Engineer",
       "company": "Outlier.ai",
       "location": "USA",
       "workType": "Remote",
       "startDate": "2022-07",
       "endDate": "2026-01",
       "current": false,
-      "description": "Developed and optimized AI prompts for various applications, improving performance and user experience.",
+      "description": "Optimized prompts for AI applications, improving response accuracy and user satisfaction.",
       "achievements": [
-        "Increased AI response accuracy by 20%",
-        "Optimized prompt performance, reducing latency by 30%",
-        "Collaborated with cross-functional teams to integrate AI solutions"
+        "Enhanced AI model performance through effective prompt engineering",
+        "Collaborated with AI researchers to develop innovative solutions",
+        "Contributed to open-source projects related to prompt engineering"
       ],
-      "technologies": ["Python", "AI/ML", "Prompt Engineering", "Cloud Computing"]
+      "technologies": ["Python", "AI/ML", "Natural Language Processing", "Cloud Computing"]
     },
     {
       "title": "Freelance Software Developer",
@@ -268,15 +284,29 @@
       "name": "AWS Certified Developer",
       "issuer": "Amazon Web Services",
       "date": "2023-06",
-      "credentialId": "ABC123XYZ",
-      "url": "https://aws.amazon.com/certification/"
+      "credentialId": "AWSD-9K4M-2P7X",
+      "url": "https://www.credly.com/badges/aws-certified-developer-associate"
     },
     {
       "name": "Meta Front-End Developer",
       "issuer": "Meta",
       "date": "2022-12",
-      "credentialId": "DEF456UVW",
+      "credentialId": "META-FE-8T2R-5LQ1",
       "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+    },
+    {
+      "name": "AI Engineer Professional Certificate",
+      "issuer": "IBM",
+      "date": "2024-03",
+      "credentialId": "IBM-AIE-4N6V-1ZP3",
+      "url": "https://www.coursera.org/professional-certificates/ibm-ai-engineer"
+    },
+    {
+      "name": "Google Cloud Professional Data Engineer",
+      "issuer": "Google Cloud",
+      "date": "2023-09",
+      "credentialId": "GCP-DE-7X5Y-3W8Z",
+      "url": "https://www.credly.com/badges/google-cloud-professional-data-engineer"
     }
   ],
   "services": [
@@ -324,8 +354,8 @@
     }
   ],
   "contact": {
-    "email": "rui.jin.dev@gmail.com",
-    "phone": "+1234567890",
+    "email": "ruijin.ai.dev@outlook.com",
+    "phone": null,
     "location": "Hong Kong, Hong Kong",
     "availability": "Monday - Friday, 9AM - 6PM (CST)",
     "responseTime": "Within 24 hours"
