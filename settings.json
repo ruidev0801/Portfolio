@@ -307,6 +307,13 @@
       "date": "2023-09",
       "credentialId": "GCP-DE-7X5Y-3W8Z",
       "url": "https://www.credly.com/badges/google-cloud-professional-data-engineer"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2024-01",
+      "credentialId": "CKAD-9M3L-2Q7X",
+      "url": "https://www.cncf.io/certification/ckad/"
     }
   ],
   "services": [
