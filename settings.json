@@ -1,8 +1,8 @@
 {
   "personal": {
-    "name": "Your Name",
-    "title": "Creative Developer",
-    "email": "your.email@example.com",
+    "name": "Rui Jin",
+    "title": "Creative Software Engineer",
+    "email": "ruijin.ai.dev@outlook.com",
     "tagline": "Crafting digital experiences with precision and creativity",
     "description": "Specializing in modern web development and interactive design.",
     "availability": {
@@ -11,177 +11,255 @@
     }
   },
   "social": {
-    "github": "https://github.com/yourusername",
-    "linkedin": "https://linkedin.com/in/yourusername",
-    "twitter": "https://twitter.com/yourusername"
+    "github": "https://github.com/ruidev0801",
+    "linkedin": "https://linkedin.com/in/ruijin9981",
+    "twitter": "https://twitter.com/ruijin9981"
   },
   "seo": {
     "siteUrl": "https://yourwebsite.com",
-    "siteName": "Your Name Portfolio",
-    "siteDescription": "Modern portfolio showcasing creative development and design work. Specializing in React, Next.js, and interactive web experiences.",
+    "siteName": "Rui Jin's Portfolio",
+    "siteDescription": "Showcasing the work and skills of Rui Jin, a creative software engineer specializing in web development and performance optimization.",
     "keywords": [
-      "web developer",
-      "portfolio",
-      "react",
-      "next.js",
-      "ui/ux",
-      "frontend developer",
-      "full stack developer",
-      "javascript",
-      "typescript"
+      "Rui Jin",
+      "Software Engineer",
+      "Web Developer",
+      "Frontend Developer",
+      "Backend Developer",
+      "Full Stack Developer",
+      "Creative Developer",
+      "Web Development",
+      "Performance Optimization",
+      "JavaScript",
+      "TypeScript",
+      "AI Integration",
+      "Cloud Computing",
+      "Automation",
+      "Prompt Engineering",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Visualization",
+      "E-commerce Development",
+      "Real-time Web Applications"
     ],
     "ogImage": "/og-image.jpg",
-    "twitterHandle": "@yourusername",
+    "twitterHandle": "@ruijin9981",
     "googleSiteVerification": "your-verification-code"
   },
   "skills": [
     {
-      "name": "React / Next.js",
+      "name": "Python",
       "level": 90
     },
     {
-      "name": "TypeScript",
-      "level": 85
-    },
-    {
-      "name": "TailwindCSS",
-      "level": 95
-    },
-    {
-      "name": "Node.js",
+      "name": "Automation",
       "level": 80
     },
     {
-      "name": "UI/UX Design",
+      "name": "JS/TS",
+      "level": 95
+    },
+    {
+      "name": "AI/ML",
       "level": 85
     },
     {
-      "name": "Framer Motion",
+      "name": "C#",
+      "level": 70
+    },
+    {
+      "name": "Data Analytics",
+      "level": 85
+    },
+    {
+      "name": "SQL/NoSQL",
       "level": 90
+    },
+    {
+      "name": "Prompt Engineering",
+      "level": 90
+    },
+    {
+      "name": "Cloud (AWS/GCP)",
+      "level": 80
+    },
+    {
+      "name": "AI Integration",
+      "level": 85
+    },
+    {
+      "name": "Web Development",
+      "level": 95
+    },
+    {
+      "name": "Data Visualization",
+      "level": 80
     }
   ],
   "projects": [
     {
       "title": "Project Alpha",
-      "description": "A modern web application built with Next.js and TypeScript, featuring real-time data synchronization and advanced animations.",
-      "longDescription": "Detailed description of the project, challenges faced, and solutions implemented. Include the impact and results achieved.",
-      "tech": ["Next.js", "TypeScript", "Framer Motion", "TailwindCSS"],
+      "description": "AI-powered content generation platform with advanced natural language processing capabilities.",
+      "longDescription": "Developed an AI-driven content generation platform that utilizes state-of-the-art NLP models to create high-quality, engaging content for various applications.",
+      "tech": ["Python", "TensorFlow", "React", "Node.js"],
       "link": "https://project-alpha.com",
-      "github": "https://github.com/yourusername/project-alpha",
+      "github": "https://github.com/ruidev0801/project-alpha",
       "featured": true,
       "features": [
-        "Real-time data synchronization",
-        "Advanced animations with Framer Motion",
-        "Responsive design",
-        "SEO optimized"
-      ],
-      "metrics": {
-        "performance": "95+ Lighthouse score",
-        "users": "10,000+ monthly active users",
-        "impact": "Increased engagement by 40%"
-      }
-    },
-    {
-      "title": "Project Beta",
-      "description": "E-commerce platform with seamless checkout experience and dynamic product filtering system.",
-      "longDescription": "Built a full-featured e-commerce platform with advanced filtering, cart management, and payment integration.",
-      "tech": ["React", "Node.js", "MongoDB", "Stripe"],
-      "link": "https://project-beta.com",
-      "github": "https://github.com/yourusername/project-beta",
-      "featured": true,
-      "features": [
-        "Seamless checkout process",
-        "Dynamic product filtering",
-        "Payment integration with Stripe",
-        "Admin dashboard"
+        "AI-powered content generation",
+        "Customizable templates",
+        "Real-time collaboration",
+        "Analytics dashboard"
       ]
     },
     {
-      "title": "Project Gamma",
-      "description": "Interactive data visualization dashboard with real-time analytics and customizable widgets.",
-      "longDescription": "Created an interactive dashboard for data visualization with real-time updates and customizable components.",
-      "tech": ["React", "D3.js", "TailwindCSS", "WebSocket"],
-      "link": "https://project-gamma.com",
-      "github": "https://github.com/yourusername/project-gamma",
-      "featured": false,
+      "title": "Project Beta",
+      "description": "E-commerce platform with AI-driven product recommendations and personalized shopping experience.",
+      "longDescription": "Built a scalable e-commerce platform that leverages AI to provide personalized product recommendations, enhancing the shopping experience and increasing conversion rates.",
+      "tech": ["JavaScript", "Node.js", "MongoDB", "AWS"],
+      "link": "https://project-beta.com",
+      "github": "https://github.com/ruidev0801/project-beta",
+      "featured": true,
       "features": [
         "Real-time data updates",
         "Interactive charts with D3.js",
         "Customizable widgets",
         "Export functionality"
       ]
+    },
+    {
+      "title": "Project Gamma",
+      "description": "Real-time web application for monitoring and visualizing IoT device data.",
+      "longDescription": "Created a real-time web application that allows users to monitor and visualize data from IoT devices, providing insights and actionable information through interactive dashboards.",
+      "tech": ["React", "Socket.io", "D3.js", "AWS"],
+      "link": "https://project-gamma.com",
+      "github": "https://github.com/ruidev0801/project-gamma",
+      "featured": true,
+      "features": [
+        "Real-time data streaming",
+        "Interactive charts with D3.js",
+        "Customizable widgets",
+        "Export functionality"
+      ]
+    },
+    {
+      "title": "Project Delta",
+      "description": "AI-powered chatbot for customer support with natural language understanding.",
+      "longDescription": "Developed an AI-powered chatbot that provides efficient and accurate customer support by understanding natural language queries and providing relevant responses.",
+      "tech": ["Python", "TensorFlow", "Flask", "React"],
+      "link": "https://project-delta.com",
+      "github": "https://github.com/ruidev0801/project-delta",
+      "featured": true,
+      "features": [
+        "Natural language processing",
+        "Contextual understanding",
+        "Seamless integration",
+        "Real-time responses"
+      ]
     }
   ],
   "testimonials": [
     {
-      "name": "John Doe",
-      "role": "CEO, Tech Company",
-      "company": "Tech Corp",
+      "name": "Sementha Lee",
+      "role": "CEO",
+      "company": "Tech Innovators Inc.",
       "avatar": "JD",
-      "content": "Outstanding work! The attention to detail and creativity exceeded our expectations. Highly recommended for any web development project.",
+      "content": "Rui is an exceptional developer who consistently delivers high-quality work. His attention to detail and creativity are unmatched.",
       "rating": 5
     },
     {
-      "name": "Jane Smith",
+      "name": "Reshmi Patel",
       "role": "Product Manager",
-      "company": "Innovation Labs",
-      "avatar": "JS",
-      "content": "Professional, efficient, and incredibly talented. Delivered a stunning website that perfectly captured our brand vision.",
+      "company": "Creative Solutions Ltd.",
+      "avatar": "JD",
+      "content": "Working with Rui was a fantastic experience. He brought our vision to life with his technical expertise and innovative approach.",
       "rating": 5
     },
     {
-      "name": "Mike Johnson",
-      "role": "Startup Founder",
-      "company": "StartupXYZ",
-      "avatar": "MJ",
-      "content": "Transformed our ideas into a beautiful, functional website. The animations and user experience are top-notch!",
+      "name": "Tilman Schmidt",
+      "role": "CTO",
+      "company": "Innovatech Corp.",
+      "avatar": "JS",
+      "content": "Rui's ability to solve complex problems and deliver results on time is truly impressive. He is a valuable asset to any team.",
       "rating": 5
     }
   ],
   "experience": [
     {
-      "title": "Senior Frontend Developer",
-      "company": "Tech Company",
-      "location": "Remote",
-      "startDate": "2022-01",
-      "endDate": null,
-      "current": true,
-      "description": "Leading frontend development for multiple high-traffic web applications.",
+      "title": "Prompt Engineer & AI Developer",
+      "company": "Outlier.ai",
+      "location": "USA",
+      "workType": "Remote",
+      "startDate": "2022-07",
+      "endDate": "2026-01",
+      "current": false,
+      "description": "Developed and optimized AI prompts for various applications, improving performance and user experience.",
       "achievements": [
-        "Improved performance by 40%",
-        "Led team of 5 developers",
-        "Implemented design system"
+        "Increased AI response accuracy by 20%",
+        "Optimized prompt performance, reducing latency by 30%",
+        "Collaborated with cross-functional teams to integrate AI solutions"
       ],
-      "technologies": ["React", "Next.js", "TypeScript", "TailwindCSS"]
+      "technologies": ["Python", "AI/ML", "Prompt Engineering", "Cloud Computing"]
     },
     {
-      "title": "Frontend Developer",
-      "company": "Digital Agency",
-      "location": "City, Country",
+      "title": "Freelance Software Developer",
+      "company": "Upwork",
+      "location": "USA",
+      "workType": "Remote",
       "startDate": "2020-06",
-      "endDate": "2021-12",
+      "endDate": "2022-12",
       "current": false,
-      "description": "Developed responsive websites and web applications for various clients.",
+      "description": "Provided web development and AI integration services to various clients.",
       "achievements": [
-        "Delivered 20+ projects",
-        "Maintained 95+ client satisfaction",
-        "Mentored junior developers"
+        "Completed 20+ projects with 5-star ratings",
+        "Specialized in AI-driven solutions",
+        "Built custom web applications"
       ],
-      "technologies": ["React", "Vue.js", "JavaScript", "SCSS"]
+      "technologies": ["JavaScript", "Python", "AI/ML", "Cloud Computing"]
+    },
+    {
+      "title": "Intern Software Engineer",
+      "company": "Tech Startup",
+      "location": "Hong Kong, Hong Kong",
+      "workType": "Hybrid",
+      "startDate": "2018-06",
+      "endDate": "2019-08",
+      "current": false,
+      "description": "Assisted in developing and testing web applications.",
+      "achievements": [
+        "Gained hands-on experience with modern development tools",
+        "Collaborated with senior developers to deliver quality code"
+      ],
+      "technologies": ["React", "Flask", "Python", "Git"]
+    },
+    {
+      "title": "Volunteer Web Developer",
+      "company": "Non-Profit Organization",
+      "location": "Hong Kong, Hong Kong",
+      "workType": "Remote",
+      "startDate": "2019-09",
+      "endDate": "2020-05",
+      "current": false,
+      "description": "Developed and maintained websites for a non-profit organization.",
+      "achievements": [
+        "Improved website performance by 30%",
+        "Enhanced user experience with responsive design"
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript"]
     }
   ],
   "education": [
     {
       "degree": "Bachelor of Computer Science",
-      "institution": "University Name",
-      "location": "City, Country",
-      "startDate": "2016-09",
-      "endDate": "2020-06",
-      "description": "Focused on web development and software engineering.",
+      "institution": "City University of Hong Kong",
+      "location": "Hong Kong, Hong Kong",
+      "startDate": "2016-05",
+      "endDate": "2020-01",
+      "current": false,
+      "description": "Studied core computer science concepts and specialized in software development and AI.",
       "achievements": [
-        "GPA: 3.8/4.0",
-        "Dean's List",
-        "Best Capstone Project Award"
+        "Graduated with honors",
+        "Completed a thesis on AI-driven web applications",
+        "Active member of the Computer Science Club"
       ]
     }
   ],
@@ -204,18 +282,23 @@
   "services": [
     {
       "title": "Web Development",
-      "description": "Building modern, responsive websites and web applications using the latest technologies.",
-      "icon": "Code2"
+      "description": "Building responsive and high-performance websites tailored to your needs.",
+      "icon": "web"
     },
     {
-      "title": "UI/UX Design",
-      "description": "Creating intuitive and beautiful user interfaces that users love.",
-      "icon": "Palette"
+      "title": "AI Integration",
+      "description": "Integrating AI solutions to enhance functionality and user experience.",
+      "icon": "ai"
     },
     {
       "title": "Performance Optimization",
-      "description": "Optimizing websites for speed and efficiency without compromising quality.",
-      "icon": "Zap"
+      "description": "Improving website speed and efficiency for better user engagement.",
+      "icon": "performance"
+    },
+    {
+      "title": "Prompt Engineering",
+      "description": "Crafting effective prompts for AI models to achieve desired outcomes.",
+      "icon": "prompt"
     }
   ],
   "stats": [
@@ -241,13 +324,14 @@
     }
   ],
   "contact": {
-    "email": "your.email@example.com",
+    "email": "rui.jin.dev@gmail.com",
     "phone": "+1234567890",
-    "location": "Your City, Country",
-    "availability": "Monday - Friday, 9AM - 6PM (Your Timezone)",
+    "location": "Hong Kong, Hong Kong",
+    "availability": "Monday - Friday, 9AM - 6PM (CST)",
     "responseTime": "Within 24 hours"
   },
   "files": {
     "cv": "/cv.pdf"
-  }
+  },
+  "about": "I'm a passionate developer who loves turning ideas into reality through code. With a keen eye for design and a strong technical foundation, I create experiences that are both beautiful and functional. My approach combines creativity with technical excellence, ensuring every project not only looks great but performs exceptionally."
 }

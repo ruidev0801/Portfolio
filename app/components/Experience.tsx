@@ -8,6 +8,7 @@ import settings from '@/settings.json';
 interface Experience {
   title: string;
   company: string;
+  workType: string;
   location: string;
   startDate: string;
   endDate?: string | null;
@@ -59,6 +60,11 @@ export default function Experience() {
                     <div className="flex items-center gap-2">
                       <MapPin className="w-4 h-4" />
                       <span>{exp.location}</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <span className="px-2 py-1 text-sm border border-muted text-muted">
+                        {exp.workType}
+                      </span>
                     </div>
                   </div>
                 </div>

@@ -28,7 +28,7 @@ export default function Home() {
       <SectionIndicator />
       <main>
         <Hero />
-        <ParallaxText text="CREATIVE • DEVELOPER • DESIGNER •" baseVelocity={1} />
+        <ParallaxText text="ENGINEER • DEVELOPER • ENTHUSIAST • COFFEE LOVER • " baseVelocity={1} />
         <About />
         <Skills />
         <StatsCounter />
